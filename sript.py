@@ -16,8 +16,8 @@ def macaddress_access_control(driver, block=False):
     """
 
     # router login credentials
-    username = "Admin"
-    password = "0302300"\
+    username = ""
+    password = ""
 
     # wait until find user field and after insert the user 
     WebDriverWait(driver, timeout=10).until(lambda d: d.find_element(By.ID, "UserName")).send_keys(username)
