@@ -1,4 +1,4 @@
-## Simulate actions with Selenium
+## Simulate actions on the web with Selenium
 
 
 In the Router arris TG2482, to block some mac addresses from having access to internet connection, you have to do several manual steps.
