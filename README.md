@@ -10,6 +10,8 @@ _4 Add the Mac Address to one list_
 _5 Apply the Block option_
 
 The script automates those steps except step 4, and it uses Selenium to do so. 
-For example, if you want to block a specific mac address at a specific time, all you have to do is to have the list of mac addresses and schedule the execution of the script with cron.
-
+<i>For example, if you want to block a specific mac address at a specific time, all you have to do is to have the list of mac addresses and schedule the execution of the script with cron. <i> <br>
+<br>
+<br>
+<br>
 ![](processes.gif)
